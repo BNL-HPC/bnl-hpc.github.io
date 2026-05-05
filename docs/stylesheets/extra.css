@@ -1,0 +1,216 @@
+:root {
+  --md-primary-fg-color: #000000;
+  --md-primary-fg-color--light: #1c1c1c;
+  --md-primary-fg-color--dark: #000000;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-accent-fg-color: #00e5ff;
+  /* Cyan */
+  --md-accent-fg-color--transparent: rgba(0, 229, 255, 0.1);
+  --md-typeset-a-color: #00e5ff;
+}
+
+/* Neon glow for header */
+[data-md-color-scheme="slate"] .md-header {
+  box-shadow: 0 0 12px rgba(0, 229, 255, 0.4);
+  border-bottom: 1px solid rgba(0, 229, 255, 0.3);
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+/* Active link glow */
+[data-md-color-scheme="slate"] .md-nav__item .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-tabs__link--active {
+  color: #00e5ff;
+  text-shadow: 0 0 8px rgba(0, 229, 255, 0.5);
+}
+
+/* Futuristic heading styles */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1 {
+  text-shadow: 0 0 15px rgba(0, 229, 255, 0.4);
+  color: #e0f7fa;
+  border-bottom: 1px solid rgba(0, 229, 255, 0.2);
+  padding-bottom: 0.2em;
+}
+
+/* High-tech code blocks */
+[data-md-color-scheme="slate"] .md-typeset code {
+  background-color: rgba(0, 229, 255, 0.05);
+  border: 1px solid rgba(0, 229, 255, 0.2);
+  border-radius: 3px;
+  color: #84ffff;
+}
+
+/* Hover effects for links */
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  text-shadow: 0 0 8px rgba(0, 229, 255, 0.6);
+  transition: text-shadow 0.3s ease;
+}
+
+/* Sleek search bar */
+[data-md-color-scheme="slate"] .md-search__input {
+  background-color: rgba(0, 229, 255, 0.05);
+  border: 1px solid rgba(0, 229, 255, 0.3);
+  color: #00e5ff;
+}
+
+[data-md-color-scheme="slate"] .md-search__input:focus {
+  box-shadow: 0 0 10px rgba(0, 229, 255, 0.3);
+}
+
+/* User Profile Cards */
+.person-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  background-color: var(--md-default-bg-color);
+  border: 1px solid rgba(0, 229, 255, 0.2);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+[data-md-color-scheme="slate"] .person-card {
+  background-color: rgba(255, 255, 255, 0.02);
+}
+
+.person-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(0, 229, 255, 0.15);
+  border-color: rgba(0, 229, 255, 0.4);
+}
+
+.person-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(0, 229, 255, 0.3);
+  flex-shrink: 0;
+}
+
+.person-info {
+  flex-grow: 1;
+}
+
+.person-info h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+  font-size: 1.4rem;
+}
+
+.person-title {
+  font-weight: 600;
+  color: var(--md-typeset-color);
+  opacity: 0.8;
+  margin-bottom: 10px;
+  font-size: 0.95rem;
+}
+
+.person-interests {
+  font-size: 0.9rem;
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
+
+.person-link {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: bold;
+  padding: 5px 12px;
+  border-radius: 4px;
+  background-color: rgba(0, 229, 255, 0.1);
+  border: 1px solid rgba(0, 229, 255, 0.3);
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+}
+
+.person-link:hover {
+  background-color: rgba(0, 229, 255, 0.2);
+  box-shadow: 0 0 8px rgba(0, 229, 255, 0.4);
+}
+
+.md-typeset h3,
+.md-typeset hr {
+  clear: both;
+}
+
+.md-typeset hr {
+  display: block;
+  width: 100%;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid rgba(0, 229, 255, 0.15);
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+}
+
+/* Automatically style and float images that immediately follow an h3 (Profile Pictures) */
+.md-typeset h3+p {
+  margin-bottom: 0;
+}
+
+.md-typeset h3+p+ul {
+  margin-bottom: 0;
+  min-height: 125px;
+  /* Ensures consistent spacing even with short bios */
+}
+
+.md-typeset h3+p>img {
+  float: left;
+  margin-right: 20px;
+  width: 120px;
+  border-radius: 5px;
+  border: 2px solid rgba(0, 229, 255, 0.3);
+}
+
+/* Card grid for Active Projects list (Pure Markdown fallback) */
+h1#active-projects+ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+  padding: 0;
+  list-style: none;
+}
+
+h1#active-projects+ul>li {
+  background-color: var(--md-default-bg-color);
+  border: 1px solid rgba(0, 229, 255, 0.2);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+
+[data-md-color-scheme="slate"] h1#active-projects+ul>li {
+  background-color: rgba(255, 255, 255, 0.02);
+}
+
+h1#active-projects+ul>li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(0, 229, 255, 0.15);
+  border-color: rgba(0, 229, 255, 0.4);
+}
+
+h1#active-projects+ul>li>p {
+  margin-top: 0;
+}
+
+h1#active-projects+ul>li>p:last-child {
+  margin-bottom: 0;
+  margin-top: auto;
+}
