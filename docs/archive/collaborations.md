@@ -1,4 +1,0 @@
-# Past Collaborations
-
-## Partner B
-

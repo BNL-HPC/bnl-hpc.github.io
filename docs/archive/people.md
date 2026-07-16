@@ -1,20 +1,15 @@
 # Department Alumni
 
-### Jane Smith
+## Visiting Faculty
+- Dr. Esma Yildirim (Queensborough Community College of CUNY, Bayside, NY)
+    - Programs: DOE VFP Summer 2024
+- Dr. Prabal Adhikari (St. Olaf College, Northfield, MN)
+    - Programs: DOE FAIR 2023-2024
 
-![](../pics/people/jdoe.png)
+## Interns
+- Mohab Hussein (Queens College of the City University of New York, Flushing, NY)
+    - Programs: DOE VFP Summer 2024, DOE SULI Summer 2025
 
-- **Title:** Postdoctoral Researcher
-- **Interests:** Edge AI, Next-generation workflows, Advanced Network Analytics
-- **Profile:** https://example.com/name
-
----
-
-### John Doe
-
-![](../pics/people/jdoe.png)
-
-- **Title:** Postdoctoral Researcher
-- **Interests:** Edge AI, Next-generation workflows, Advanced Network Analytics
-- **Profile:** https://example.com/name
-
+<!--
+## Former Staff
+-->

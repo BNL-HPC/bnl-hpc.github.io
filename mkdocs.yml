@@ -1,5 +1,8 @@
-site_name: BNL Computational Science Department
-site_description: BNL Computational Science Department main page
+site_name: CSD Portfolio and Activities Catalog
+site_description: Computational Science Department Portfolio and Activities Catalog
+repo_url: https://github.com/BNL-HPC/bnl-csd.github.io
+repo_name: BNL-HPC/bnl-csd.github.io
+
 theme:
   name: material
   palette:
@@ -28,22 +31,27 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-  logo: /pics/favicon.png
+  logo: assets/images/favicon.png
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 nav:
   - Home: index.md
   - Projects: projects.md
-  - Collaborations: collaborations.md
   - Products: products.md
+  - Seminars & Talks: events.md
   - People: people.md
   - Archive:
       - Projects: archive/projects.md
-      - Collaborations: archive/collaborations.md
       - People: archive/people.md
 
 markdown_extensions:
   - attr_list
   - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+hooks:
+  - docs/assets/hooks.py
