@@ -1,6 +1,6 @@
-# **Portfolio and Activities Catalog** | Computational Science Department | Brookhaven National Laboratory
+# **Portfolio and Activities Catalog**<br><sub>Computational Science Department (CSD) Brookhaven National Laboratory (BNL)</sub>
 
-> **Pioneering the next generation of scientific computing, AI-driven data architectures, and high-performance workflows.**
+> Pioneering the next generation of scientific computing, AI-driven data architectures, and high-performance workflows.
 
 Our research activities bridge the gap between complex physical sciences and cutting-edge computer science:
 

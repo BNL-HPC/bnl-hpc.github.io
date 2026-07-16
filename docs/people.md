@@ -1,4 +1,4 @@
-# Department Staff
+# Department Members
 
 {{ autogenerate_people }}
 
