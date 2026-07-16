@@ -1,7 +1,7 @@
 site_name: CSD Portfolio and Activities Catalog
 site_description: Computational Science Department Portfolio and Activities Catalog
-repo_url: https://github.com/BNL-HPC/bnl-csd.github.io
-repo_name: BNL-HPC/bnl-csd.github.io
+repo_url: https://github.com/BNL-HPC/bnl-hpc.github.io
+repo_name: BNL-HPC/bnl-hpc.github.io
 
 theme:
   name: material
