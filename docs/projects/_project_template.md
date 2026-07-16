@@ -3,7 +3,7 @@ title: "Project Title"
 summary: "Short description (summary) for the project cards gallery."
 website_url: ""
 github_url: ""
-documentation_url: ""
+docs_url: ""
 is_active: true
 ---
 # Project Title
@@ -17,7 +17,7 @@ Extended, detailed description of the project.
 - [Documentation](#)
 
 ## Publications
-- [List publications here]
+- [List publications (APA style) here]
 
 ## Products
 - [List references to products in products.md]

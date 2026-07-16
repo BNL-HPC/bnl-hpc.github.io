@@ -3,7 +3,7 @@ title: "PESO: Partnering for Scientific-Software Ecosystem Opportunities"
 summary: "A DOE initiative that advances the scientific software ecosystem by coordinating software stewardship, integration, quality, sustainability, and community engagement across DOE-funded software projects. Working closely with the Consortium for the Advancement of Scientific Software (CASS), PESO improves the usability, reliability, and long-term impact of scientific software through ecosystem-wide collaboration."
 website_url: "https://pesoproject.org"
 github_url: "https://github.com/pesoproject"
-documentation_url: ""
+docs_url: ""
 is_active: true
 ---
 # Partnering for Scientific-Software Ecosystem Opportunities (PESO)

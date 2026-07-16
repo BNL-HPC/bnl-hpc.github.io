@@ -94,24 +94,15 @@ def on_page_markdown(markdown, page, config, files):
         return markdown.replace(_PEOPLE_PLACEHOLDER, people_html)
 
     # --- Project pages ---
-    if src_path not in _PAGE_IS_ARCHIVE:
-        return markdown
-
-    is_archive = _PAGE_IS_ARCHIVE[src_path]
-    project_cards = generate_project_cards(
-        config['docs_dir'], is_archive
-    )
-
-    if not project_cards:
-        return markdown
-
-    grid_block = (
-        '<div class="grid cards" markdown>\n\n'
-        + '\n'.join(project_cards)
-        + '\n</div>'
-    )
-
-    if _PROJECTS_PLACEHOLDER in markdown:
+    if src_path in _PAGE_IS_ARCHIVE and _PROJECTS_PLACEHOLDER in markdown:
+        project_cards = generate_project_cards(
+            config['docs_dir'], _PAGE_IS_ARCHIVE[src_path]
+        )
+        grid_block = (
+            '<div class="grid cards" markdown>\n\n'
+            + '\n'.join(project_cards)
+            + '\n</div>'
+        )
         return markdown.replace(_PROJECTS_PLACEHOLDER, grid_block)
 
-    return markdown + '\n\n' + grid_block
+    return markdown

@@ -3,7 +3,7 @@ title: "LUCID: Low-Dose Understanding, Cellular Insights, and Molecular Discover
 summary: "A DOE-funded research project integrating experimental radiation biology, artificial intelligence and machine learning, bioinformatics, and large-scale computing to determine how low-dose ionizing radiation alters cellular and molecular processes. The project develops interpretable methods and reusable computational workflows for analyzing genomic instability, gene-expression pathways, mutational signatures, longitudinal cell morphology, and relationships between molecular changes and observable cellular phenotypes."
 website_url: "https://www.genomicscience.energy.gov/lowdose/"
 github_url: "https://github.com/BNL-LUCID"
-documentation_url: ""
+docs_url: ""
 is_active: true
 ---
 # Low-Dose Understanding, Cellular Insights, and Molecular Discoveries (LUCID)

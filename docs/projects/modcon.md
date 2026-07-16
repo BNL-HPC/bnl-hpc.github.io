@@ -3,7 +3,7 @@ title: "ModCon: Transformational AI Models Consortium"
 summary: "A DOE-led consortium that accelerates the development of next-generation scientific AI models through shared infrastructure, standardized data practices, and collaborative AI capabilities. It provides AI-ready data pipelines, reproducible scientific workflows, baseline AI technologies, partnership frameworks, and evaluation standards while working closely with the American Science Cloud (AmSC). By reducing duplication and enabling reusable capabilities across domains, ModCon empowers researchers to develop robust, multimodal, and trustworthy AI models that accelerate scientific discovery."
 website_url: ""
 github_url: "https://github.com/AI-ModCon"
-documentation_url: ""
+docs_url: ""
 is_active: true
 ---
 # The Transformational AI Models Consortium (ModCon)
@@ -26,4 +26,4 @@ Success is measured by the ability of Model Teams to produce trustworthy, high-i
 - [Official DOE Project Page](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission)
 - [GitHub Organization](https://github.com/AI-ModCon)
 - [Official Website for the Genesis Mission](https://genesis.energy.gov)
-- [GitLab Organization for the Genesis Mission](https://gitlab.osti.gov/genesis)
+- [DOE Code for the Genesis Mission](https://gitlab.osti.gov/genesis)

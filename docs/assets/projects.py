@@ -64,7 +64,7 @@ def _build_card(
     summary = meta.get('summary', '')
     website = meta.get('website_url', '')
     github = meta.get('github_url', '')
-    documentation = meta.get('documentation_url', '')
+    docs = meta.get('docs_url', '')
 
     prefix = '../projects/' if is_archive else './projects/'
     project_link = f'{prefix}{filename}'
@@ -80,8 +80,8 @@ def _build_card(
         links.append(f'[:octicons-link-external-16: Website]({website})')
     if github:
         links.append(f'[:octicons-mark-github-16: GitHub]({github})')
-    if documentation:
-        links.append(f'[:octicons-book-16: Docs]({documentation})')
+    if docs:
+        links.append(f'[:octicons-book-16: Docs]({docs})')
 
     if links:
         parts.append('    ' + ' &nbsp;&nbsp;&nbsp; '.join(links) + '\n')
