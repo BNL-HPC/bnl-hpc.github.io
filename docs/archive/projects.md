@@ -1,4 +1,3 @@
 # Previous Projects
 
-## __[Project Name](./projects/project-name.md)__
-
+{{ autogenerate_projects }}

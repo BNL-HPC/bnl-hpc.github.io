@@ -1,4 +1,4 @@
-# **Computational Science Department** at Brookhaven National Laboratory
+# **Portfolio and Activities Catalog** | Computational Science Department | Brookhaven National Laboratory
 
 > **Pioneering the next generation of scientific computing, AI-driven data architectures, and high-performance workflows.**
 
@@ -15,8 +15,11 @@ Our research activities bridge the gap between complex physical sciences and cut
 Explore our ecosystem of research and tools:
 
 - 🔬 **[Projects](./projects.md):** Active, funded initiatives pushing the boundaries of high performance computing, AI-driven data architectures, and next-gen computational models.
+<!--
 - 🤝 **[Collaborations](./collaborations.md):** Interdisciplinary partnerships across institutions and global research facilities.
+-->
 - 💻 **[Products & Tools](./products.md):** Advanced software packages designed for high-performance scientific computing and AI.
+- 🎤 **[Seminars & Talks](./events.md):** Seminars, invited talks, and presentations organized or conducted by the department.
 - 👥 **[Our People](./people.md):** Meet the core members, principal investigators, and researchers driving the BNL Computational Science Department vision.
 
 ---
@@ -26,5 +29,7 @@ Explore our ecosystem of research and tools:
 Access our historical records and alumni information:
 
 - 🗄️ [Archived Projects](./archive/projects.md)
+<!--
 - 🗄️ [Archived Collaborations](./archive/collaborations.md)
+-->
 - 🎓 [Alumni & Past Members](./archive/people.md)
