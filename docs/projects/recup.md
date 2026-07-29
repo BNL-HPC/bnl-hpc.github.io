@@ -24,6 +24,7 @@ BNL contributes workflow technologies, mini-applications, instrumentation, and a
 
 ## Publications
 - Nicolae, B., Islam, T. Z., Ross, R., Van Dam, H., Assogba, K., Shpilker, P., Titov, M., Turilli, M., Wang, T., Kilic, O. O., Jha, S., & Pouchard, L. C. (2023). *Building the I (Interoperability) of FAIR for Performance Reproducibility of Large-Scale Composable Workflows in RECUP*. In 2023 IEEE 19th International Conference on e-Science (e-Science) (pp. 1-7). IEEE. [https://doi.org/10.1109/e-Science58273.2023.10254808](https://doi.org/10.1109/e-Science58273.2023.10254808)
+- Kilic, O. O., Wang, T., Turilli, M., Titov, M., Merzky, A., Pouchard, L. C., & Jha, S. (2024). *Workflow mini-apps: Portable, scalable, tunable & faithful representations of scientific workflows*. In 2024 IEEE 24th International Symposium on Cluster, Cloud and Internet Computing (CCGrid) (pp. 465–477). IEEE. [https://doi.org/10.1109/CCGrid59990.2024.00059](https://doi.org/10.1109/CCGrid59990.2024.00059)
 
 ## Artifacts
 - [Workflow Mini-apps](https://github.com/RECUP-DOE/workflow-miniapps) - Tutorials and representative workloads for reproducibility and workflow-performance studies.
