@@ -1,7 +1,7 @@
 # Department Alumni
 
 ## Staff
-- Dennis Bollweg, 2022-2025 
+- Dr. Dennis Bollweg, 2022-2025 
     - Contacts: [:octicons-mark-github-16:](https://github.com/dbollweg)
 
 ## Visiting Faculty
