@@ -39,7 +39,7 @@
     - Contacts: [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/mohab-hussein04) [:octicons-mark-github-16:](https://github.com/husseinmohab)
 
 
-[^vfp]: **VFP**: DOE Visiting Faculty Program, https://science.osti.gov/wdts/vfp
+[^hsrp]: **HSRP**: BNL High School Research Program, https://www.bnl.gov/education/programs/program.php?q=219
 [^cci]: **CCI**: DOE Community College Internship Program, https://science.osti.gov/wdts/cci
 [^suli]: **SULI**: DOE Science Undergraduate Laboratory Internships Program, https://science.osti.gov/wdts/suli
-[^hsrp]: **HSRP**: BNL High School Research Program, https://www.bnl.gov/education/programs/program.php?q=219
+[^vfp]: **VFP**: DOE Visiting Faculty Program, https://science.osti.gov/wdts/vfp
