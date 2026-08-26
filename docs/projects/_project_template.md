@@ -24,4 +24,4 @@ Extended, detailed description of the project.
 - [List references to products in products.md]
 
 ## Artifacts
-- [Produced project outcomes, such as datasets, tutorials, etc.]
+- [List produced project outcomes — use the `format-artifacts` skill for formatting help]
