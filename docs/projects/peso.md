@@ -19,6 +19,7 @@ BNL contributes to PESO's integration and workflow-technology activities. The BN
 
 ## References
 - [Official Website](https://pesoproject.org)
-- [GitHub Organization](https://github.com/pesoproject)
-- [GitHub Organization for BNL](https://github.com/BNL-PESO-Hub)
+- [Project GitHub](https://github.com/pesoproject)
+- [GitHub (BNL Team)](https://github.com/BNL-PESO-Hub)
 - [CASS Website](https://cass.community)
+- [RADICAL-Cybertools Website](https://radical-cybertools.github.io)

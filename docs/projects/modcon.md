@@ -24,6 +24,6 @@ Success is measured by the ability of Model Teams to produce trustworthy, high-i
 
 ## References
 - [Official DOE Project Page](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission)
-- [GitHub Organization](https://github.com/AI-ModCon)
+- [Project GitHub](https://github.com/AI-ModCon)
 - [Official Website for the Genesis Mission](https://genesis.energy.gov)
 - [DOE Code for the Genesis Mission](https://gitlab.osti.gov/genesis)
