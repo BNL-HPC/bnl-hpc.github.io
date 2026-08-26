@@ -16,8 +16,8 @@ Extended, detailed description of the project.
 - [GitHub Organization/Repository](#)
 - [Documentation](#)
 
-## Publications
-- [List publications (APA style) here]
+## Publications/Talks/Tutorials
+- [List entries in APA style — use the `format-publications` skill for formatting help]
 
 ## Products
 - [List references to products in products.md]
