@@ -11,7 +11,7 @@ is_active: true
 ## Description
 xGFabric is a U.S. Department of Energy Office of Advanced Scientific Computing Research project that designs and evaluates an end-to-end, multiscale, and adaptive distributed system connecting scientific instruments, sensors, and actuators with high-performance computing (HPC) facilities. The project uses programmable 5G/6G networking to coordinate computing, storage, sensing, data movement, and actuation across the edge-to-HPC continuum.
 
-The xGFabric software stack combines resilient event-driven communication, distributed dataflow programming, and adaptive workflow and resource management. CSPOT provides log-based communication and persistence across embedded devices and computing systems; Laminar expresses distributed dataflow programs; RADICAL-Pilot manages dynamically acquired HPC resources; and xGFabric controllers coordinate data staging, task execution, and resource allocation. SensorSlicer extends 5G/6G network slicing toward workflow-aware sensor virtualization, adaptive sampling, and quality-of-service control.
+The xGFabric software stack combines resilient event-driven communication, distributed dataflow programming, and adaptive workflow and resource management. CSPOT provides log-based communication and persistence across embedded devices and computing systems; Laminar expresses distributed dataflow programs; RADICAL runtime tools manage and orchestrate distributed workloads and HPC resources; and xGFabric controllers coordinate data staging, task execution, and resource allocation. SensorSlicer extends 5G/6G network slicing toward workflow-aware sensor virtualization, adaptive sampling, and quality-of-service control.
 
 Digital agriculture is the primary science driver. The project uses environmental telemetry associated with the Citrus Under Protective Screens (CUPS) facility at the Lindcove Research Extension Center in California. Sensor data is transported through a private 5G network and used to trigger OpenFOAM computational fluid dynamics simulations that model airflow inside the screenhouse. The team has demonstrated an end-to-end workflow connecting a 5G-enabled sensor device at the University of Nebraska-Lincoln with computing resources at the University of California, Santa Barbara and the University of Notre Dame.
 
@@ -21,14 +21,13 @@ BNL contributes to adaptive workflow and resource management, end-to-end system 
 
 ## References
 - [Official Website](https://sites.google.com/view/xgfabric)
-- [GitHub Repository](https://github.com/radical-collaboration/xGFabric)
-- [MAYHEM-Lab GitHub Organization](https://github.com/MAYHEM-Lab)
+- [Project GitHub](https://github.com/radical-collaboration/xGFabric)
+- [MAYHEM-Lab GitHub](https://github.com/MAYHEM-Lab)
 - [RADICAL-Cybertools Website](https://radical-cybertools.github.io)
 
 ## Publications
 - Kurafeeva, L., Subedi, A., Hartung, R., Fay, M., Biswas, A., Jha, S., Kilic, O. O., Krintz, C., Merzky, A., Thain, D., Vuran, M. C., & Wolski, R. (2025). *xGFabric: Coupling sensor networks and HPC facilities with private 5G wireless networks for real-time digital agriculture*. In 7th Annual Workshop on Extreme-scale Experiment-in-the-Loop Computing (XLOOP '25). ACM. [https://doi.org/10.1145/3731599.3767589](https://doi.org/10.1145/3731599.3767589)
 
 ## Artifacts
-- [xGFabric integration and demonstration software](https://github.com/radical-collaboration/xGFabric)
-- [CSPOT event-driven distributed runtime](https://github.com/MAYHEM-Lab/cspot)
-- [Laminar distributed dataflow programming system](https://github.com/MAYHEM-Lab/laminar)
+- [xGFabric Collaborative Workspace](https://github.com/radical-collaboration/xGFabric) - Shared integration environment and demonstration software coupling edge sensor networks and high-performance computing facilities.
+- [RADICAL-ORBIT](https://github.com/radical-cybertools/radical.orbit) - Decentralized resource brokerage and integration toolkit for coordinating remote execution across high-performance computing nodes.
