@@ -13,14 +13,15 @@ Extended, detailed description of the project.
 
 ## References
 - [Official Website](#)
-- [GitHub Organization/Repository](#)
+- [Project GitHub](#)
+- [GitHub (BNL Team)](#)
 - [Documentation](#)
 
-## Publications
-- [List publications (APA style) here]
+## Publications/Talks/Tutorials
+- [List entries in APA style — use the `format-publications` skill for formatting help]
 
 ## Products
 - [List references to products in products.md]
 
 ## Artifacts
-- [Produced project outcomes, such as datasets, tutorials, etc.]
+- [List produced project outcomes — use the `format-artifacts` skill for formatting help]
