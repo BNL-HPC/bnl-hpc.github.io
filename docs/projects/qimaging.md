@@ -14,9 +14,9 @@ This project develops the computational methods needed to move X-ray quantum cor
 2. **XPDC data analysis:** this thread focuses on scaling and speeding up the photon-pair identification pipeline underlying the SPDC/XPDC technique - the same time-of-arrival (ToA), time-over-threshold (ToT), and energy/momentum-conservation-based coincidence filtering described in the published methodology. Work includes evaluating Dask to remove processing bottlenecks and AwkwardArray for managing the data's irregular/jagged structure, and exploring metric-based pair-finding methods as an alternative or complement to the current cut-based filtering.
 
 ## Publications
-- Goodrich, J. C., Mahon, R., Hanrahan, J., Bollweg, D., Dziubelski, M., Abrahao, R. A., Karmakar, S., Gofron, K. J., Caswell, T. A., Allan, D., Berman, L., Nomerotski, A., Fluerasu, A., DaVià, C., & McSweeney, S. (2025). *Quantum imaging with X-rays* Preprint. Optica Open. [https://doi.org/10.1364/opticaopen.30223492](https://doi.org/10.1364/opticaopen.30223492)
-- Goodrich, J. C., Mahon, R., Hanrahan, J., Bollweg, D., Dziubelski, M., Abrahao, R. A., Karmakar, S., Gofron, K. J., Caswell, T. A., Allan, D., Berman, L., Nomerotski, A., Fluerasu, A., DaVià, C., & McSweeney, S. (2026). *Quantum correlation imaging via X-ray parametric down-conversion*. Optica, 13(1), 135-142. [https://doi.org/10.1364/OPTICA.574747](https://doi.org/10.1364/OPTICA.574747)
+- Goodrich, J. C., Mahon, R., Hanrahan, J., Bollweg, D., Dziubelski, M., Abrahao, R. A., Karmakar, S., Gofron, K. J., Caswell, T. A., Allan, D., Berman, L., Nomerotski, A., Fluerasu, A., DaVià, C., & McSweeney, S. (2025). *Quantum imaging with X-rays*. Optica Open. [https://doi.org/10.1364/opticaopen.30223492](https://doi.org/10.1364/opticaopen.30223492)
+- Goodrich, J. C., Mahon, R., Hanrahan, J., Bollweg, D., Dziubelski, M., Abrahao, R. A., Karmakar, S., Gofron, K. J., Caswell, T. A., Allan, D., Berman, L., Nomerotski, A., Fluerasu, A., DaVià, C., & McSweeney, S. (2026). *Quantum correlation imaging via X-ray parametric down-conversion*. *Optica*, *13*(1), 135–142. [https://doi.org/10.1364/OPTICA.574747](https://doi.org/10.1364/OPTICA.574747)
 
 ## Artifacts
-- [https://github.com/JGoodrichBNL/tpxspdc](https://github.com/JGoodrichBNL/tpxspdc)
-- [https://github.com/JGoodrichBNL/GIRecon](https://github.com/JGoodrichBNL/GIRecon)
+- [Timepix3 SPDC](https://github.com/JGoodrichBNL/tpxspdc) - Data analysis pipeline for Timepix3 detectors and X-ray parametric down-conversion coincidence filtering. (**work in progress**, *private repo*)
+- [GIRecon](https://github.com/kchopra04/GIRecon) - Ghost imaging reconstruction framework using ADMM and DruNet models for inverse problems. (**work in progress**, *private repo*)
