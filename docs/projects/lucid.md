@@ -17,7 +17,8 @@ A central goal of LUCID is to make low-dose radiation research more systematic a
 
 ## References
 - [Official DOE Project Page](https://www.genomicscience.energy.gov/lowdose/)
-- [GitHub Organization for BNL](https://github.com/BNL-LUCID)
+- [GitHub (BNL Team)](https://github.com/BNL-LUCID)
+- [RADICAL-Cybertools Website](https://radical-cybertools.github.io)
 
 ## Publications
 - Jantre, S., Wang, T., Park, G., Chopra, K., Jeon, N., Qian, X., Urban, N. M., & Yoon, B.-J. (2025). *Uncertainty-aware adaptation of large language models for protein-protein interaction analysis*. In 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (pp. 1–7). IEEE. [https://doi.org/10.1109/EMBC58623.2025.11253873](https://doi.org/10.1109/EMBC58623.2025.11253873)

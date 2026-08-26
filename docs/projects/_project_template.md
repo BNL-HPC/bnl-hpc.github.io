@@ -13,7 +13,8 @@ Extended, detailed description of the project.
 
 ## References
 - [Official Website](#)
-- [GitHub Organization/Repository](#)
+- [Project GitHub](#)
+- [GitHub (BNL Team)](#)
 - [Documentation](#)
 
 ## Publications/Talks/Tutorials
