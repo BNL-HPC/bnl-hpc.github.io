@@ -23,7 +23,8 @@ ModCon is organized around four crosscutting technical and operational teams:
 Success is measured by the ability of Model Teams to produce trustworthy, high-impact AI models that improve scientific productivity, accelerate discovery, and integrate seamlessly with DOE infrastructure. By combining world-class scientific expertise, advanced computing resources, frontier AI technologies, and open, reusable software, ModCon establishes a scalable framework for scientific AI.
 
 ## References
-- [Official DOE Project Page](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission)
+- [Official DOE Project Page](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
 - [Project GitHub](https://github.com/AI-ModCon)
-- [Official Website for the Genesis Mission](https://genesis.energy.gov)
-- [DOE Code for the Genesis Mission](https://gitlab.osti.gov/genesis)
+- [Official DOE Genesis Mission Page](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission)
+- [Genesis Mission Website](https://genesis.energy.gov)
+- [Genesis Mission GitLab](https://gitlab.osti.gov/genesis)
