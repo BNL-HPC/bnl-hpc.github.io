@@ -24,10 +24,10 @@
 ## Interns
 
 - Ashraf Aldekaim (New Jersey Institute of Technology, Newark, NJ)
-    - Programs: DOE SULI[^suli] Spring 2026
+    - Programs: DOE SULI[^suli] Summer 2026
     - Contacts: [:octicons-mark-github-16:](https://github.com/ashraf1248)
 - Muhammad Fahad Butt (Suffolk County Community College, Selden, NY)
-    - Programs: DOE CCI[^cci] Spring 2026
+    - Programs: DOE CCI[^cci] Summer 2026
     - Contacts: [:octicons-mark-github-16:](https://github.com/Fahad5800)
 - Sean Tai (Queensborough Community College of CUNY, Bayside, New York)
     - Programs: DOE CCI[^cci] Summer 2026
