@@ -2,8 +2,12 @@
 
 ## Staff
 
-- Dr. Dennis Bollweg, 2022-2025
+- Dr. Dennis Bollweg
+    - Tenure: 2022-2025
     - Contacts: [:octicons-mark-github-16:](https://github.com/dbollweg)
+- Dr. Matteo Turilli
+    - Tenure: 2021-2025 (affiliated with the department during 2024–2025)
+    - Contacts: [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/mturilli) [:octicons-mark-github-16:](https://github.com/mturilli)
 
 ## Visiting Faculty
 
