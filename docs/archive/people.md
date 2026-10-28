@@ -37,6 +37,9 @@
 - Christopher Choi
     - Affiliation: Hauppauge High School, Hauppauge, NY
     - Programs: BNL HSRP[^hsrp] Summer 2026
+- Lauren Chen - [:octicons-mark-github-16:](https://github.com/laurenkchen)
+    - Affiliation: Syosset High School, Syosset, NY
+    - Programs: BNL HSRP[^hsrp] Summer 2026
 - Mohab Hussein - [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/mohab-hussein04) [:octicons-mark-github-16:](https://github.com/husseinmohab)
     - Affiliation: Queens College of the City University of New York, Flushing, NY
     - Programs: DOE VFP[^vfp] Summer 2024, DOE SULI[^suli] Summer 2025
